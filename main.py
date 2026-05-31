@@ -12,7 +12,7 @@ ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:5500",
     "http://127.0.0.1:5500",
-    "https://your-portfolio.vercel.app",  # replace with your Vercel URL later
+    "https://naomie-portifolio-frontend-8uoo.vercel.app",  # replace with your Vercel URL later
 ]
 
 app.add_middleware(
